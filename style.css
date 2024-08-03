@@ -1,0 +1,91 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: #EEE;
+	font-family: Times New Roman, serif, Georgia ;
+}
+.container{
+	width: 1000px;
+}
+#start{
+	height: 40px;
+	width: 900px;
+	background-color: grey;
+	margin-left: 220px;
+}
+.personal-information{
+	margin-left: 350px;
+	padding: 30px;
+
+}
+.personal-information h1{
+	color: grey ;
+}
+.div-clear{
+	clear: both;
+}
+hr{
+	border: 1px solid black;
+	margin-left: 220px;
+	width: 90%;
+	border-bottom: none;
+}
+#professional-summary{
+	margin-top: 10px;
+	margin-left: 220px;
+
+}
+.content{
+
+}
+.left-div{
+	float: left;
+	width: 30%;
+
+}
+.right-div{
+	float: right;
+	width: 70%;
+	text-align: justify;
+
+}
+.all{
+	margin-top: 30px;
+}
+#work-history{
+	margin-top: 10px;
+	margin-left: 220px;
+}
+.all-2{
+	border-style:dotted;
+	border-bottom: none;
+	margin-top: 30px;
+}
+#section1{
+	margin-top: 10px;
+	margin-left: 220px;
+
+}
+#section2{
+	margin-top: 10px;
+	margin-left: 220px;
+
+}
+#last-step{
+	margin-left: 500px;
+
+}
+.finish{
+	margin-top: 30px;
+	height: 80px;
+	width: 300px;
+	background-color: black;
+
+}
+.finish p{
+	color: white;
+	padding: 10px;
+	margin-left: 42px;
+}
